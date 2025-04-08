@@ -1,3 +1,5 @@
+## 给定两个数字表示链表，找出两个链表的相交的点
+## 这里要学习灵神的解题思路，即将链表的遍历想象成人在走路
 from typing import Optional, List
 class ListNode:
     def __init__(self, x):

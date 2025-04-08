@@ -1,3 +1,7 @@
+## 最长连续递增子序列
+## 给定一个序列，找到其内部的最长的，连续的(这个连续是值逐1递增)
+## 知识点：集合，使用set保存所有出现过的数，遍历找到最小的数，逐渐加1，直到值不在集合中
+
 from typing import List
 
 def test(nums:List[int]) -> int:
@@ -20,7 +24,7 @@ def longestConsecutive(nums: List[int]) -> int:
     nums_set = set(nums)
     max_len = 0
     for num in nums_set:
-        if num -1 not in nums_set:
+        if num - 1 not in nums_set:
             first_num = num
             consutitive_len = 1
             while first_num + 1 in nums_set:
