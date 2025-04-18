@@ -23,6 +23,8 @@ while True:
     except:
         break
 
+
+
 ## 法二
 # input_list = input().split(';')
 # initial = [0,0]
