@@ -30,27 +30,3 @@ def construct_tree(data):
         i += 1
     
     return root
-
-list = [1,2,3,4,None, None, 5]
-root = construct_tree(list)
-
-## 使用队列来进行层序遍历
-def level_order(root):
-    if not root: return []
-    queue = [root]
-    ans = []
-    while queue:
-        val = []
-        ## 取出当前层的元素个数
-        length = len(queue)
-        for _ in range(length):  # 用for循环来遍历当前层的节点
-            ## 根据当前层的元素个数，依次取出当前层的所有节点
-            node = queue.pop(0)
-            val.append(node.val)
-            ## 将下一层的所有节点按照左至右的顺序添加到队列中
-            if node.left: queue.append(node.left)
-            if node.right: queue.append(node.right)
-        ans.append(val)
-    return ans  
-
-print(level_order(root))

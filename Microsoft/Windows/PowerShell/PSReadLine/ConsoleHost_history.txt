@@ -1,0 +1,29 @@
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/滑动窗口/滑动窗口最大值.py
+ & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52326' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52376' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52430' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52561' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52660' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52762' '--' 'd:\Project\leetcode\滑动窗口\滑动窗口最大值.py' 
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉树层序遍历.py
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '55388' '--' 'd:\Project\leetcode\二叉树\二叉树层序遍历.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '57224' '--' 'd:\Project\leetcode\二叉树\二叉搜索树.py' 
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉搜索树.py
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉搜索树.py
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉树遍历.py
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '52687' '--' 'd:\Project\leetcode\二叉树\二叉树遍历.py' 
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉搜索树.py
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/二叉树/二叉搜索树.py
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '54193' '--' 'd:\Project\leetcode\二叉树\二叉搜索树.py' 
+git status
+git add .
+git commit -m "add some tests about queue and tree"
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '62524' '--' 'd:\Project\leetcode\排序\归并排序.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '62799' '--' 'd:\Project\leetcode\排序\归并排序.py' 
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/排序/归并排序.py
+& C:/Users/武丢丢/AppData/Local/Programs/Python/Python311/python.exe d:/Project/leetcode/排序/归并排序.py
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '49271' '--' 'd:\Project\leetcode\排序\归并排序.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '49411' '--' 'd:\Project\leetcode\排序\归并排序.py' 
+ d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '49491' '--' 'd:\Project\leetcode\排序\归并排序.py' 
+git status
+git add .
