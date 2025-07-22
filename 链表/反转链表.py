@@ -1,18 +1,5 @@
 from typing import Optional, List
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
-def array_to_list(arr):
-    if not arr:
-        return None
-    head = ListNode(arr[0])
-    current = head
-    for i in range(1, len(arr)):
-        current.next = ListNode(arr[i])
-        current = current.next
-    return head
+from base import ListNode, array_to_list
 
 ## my solution  遍历整个链表一次，时间复杂度O(n),values存储链表的值， 创建一个新的链表current，与原链表长度相同，则空间复杂度
 ## 为O(n)

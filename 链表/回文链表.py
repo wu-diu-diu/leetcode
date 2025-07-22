@@ -1,9 +1,5 @@
 from typing import Optional
-
-class ListNode:
-    def __init__(self, val):
-        self.val = val
-        self.next = None
+from base import ListNode, array_to_list
 ## 反转链表
 def ReverseList(head: Optional[ListNode]) -> Optional[ListNode]:
     pre, cur = None, head

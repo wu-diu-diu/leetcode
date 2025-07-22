@@ -27,3 +27,8 @@ git commit -m "add some tests about queue and tree"
  d:; cd 'd:\Project\leetcode'; & 'c:\Users\武丢丢\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\武丢丢\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '49491' '--' 'd:\Project\leetcode\排序\归并排序.py' 
 git status
 git add .
+git commit -m "merge_sort"
+git config --global user.email
+git config --list --show-origin
+git config --list --show-origin
+git config --global user.email 'punchy0303@gmail.com'

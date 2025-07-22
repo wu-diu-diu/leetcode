@@ -1,20 +1,7 @@
 ## 给定两个数字表示链表，找出两个链表的相交的点
 ## 这里要学习灵神的解题思路，即将链表的遍历想象成人在走路
 from typing import Optional, List
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
-def array_to_list(arr):
-    if not arr:
-        return None
-    head = ListNode(arr[0])
-    current = head
-    for i in range(1, len(arr)):
-        current.next = ListNode(arr[i])
-        current = current.next
-    return head
+from base import ListNode, array_to_list
 
 arr_1 = [4,1,8,4,5]
 arr_2 = [5,6,1,8,4,5]
